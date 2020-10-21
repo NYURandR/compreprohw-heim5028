@@ -39,6 +39,6 @@ The most basic and essential practice is to take properly manage data.  Data man
 4) Push this homework to the GitHub repository for the homework. 
 
 
-
+push
 
 
